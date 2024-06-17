@@ -14,23 +14,29 @@ Nosso site foi projetado para oferecer uma experiência intuitiva e informativa,
 
 1° Tela Inicial
 A porta de entrada do nosso site! Aqui você encontrará uma visão geral e todas as informações iniciais necessárias para começar a explorar.
+
 ![image](https://github.com/HugoHorta1/Helpme.io/assets/81184147/76b37310-0443-4c82-8276-bbe44415f955)
 
 2° Sobre Nós
 Quer saber quem somos? Esta seção oferece uma explicação detalhada sobre nossa missão e atividades. Conheça nossa equipe com fotos e nomes, e leia os feedbacks dos nossos usuários satisfeitos.
+
 ![image](https://github.com/HugoHorta1/Helpme.io/assets/81184147/1fbfbf94-9a78-4af5-818c-2ff628cb1d57)
+
 ![image](https://github.com/HugoHorta1/Helpme.io/assets/81184147/9e5a3392-f5ce-42be-b37e-3a2f2b59349f)
 
 3° Aulas
 Aqui é onde a mágica acontece! Acesse todas as nossas aulas e conteúdos exclusivos. Tudo disponível para você aprender e crescer no seu próprio ritmo.
+
 ![image](https://github.com/HugoHorta1/Helpme.io/assets/81184147/8a5f4162-1e98-4e23-b30d-87f79c5f9847)
 
 4° Entre em contato conosco
 Precisando de ajuda ou quer dar um feedback? Nesta seção, você pode entrar em contato diretamente com nossa equipe. Preencha o formulário e envie suas mensagens ou sugestões.
+
 ![image](https://github.com/HugoHorta1/Helpme.io/assets/81184147/98a0762b-cd45-4734-9c9e-9338ecbfbc36)
 
 5° Rodapés
 Em cada página, nossos rodapés contêm informações adicionais, como nossa localização e links para nossas redes sociais: WhatsApp, Facebook, Twitter, Instagram e LinkedIn. Não esqueça de cadastrar seu e-mail para receber atualizações diretamente em sua caixa de entrada!
+
 ![image](https://github.com/HugoHorta1/Helpme.io/assets/81184147/f93c4cd1-be54-4729-8555-3e5f1b0d2bc7)
 
 Link para um vídeo no Youtube onde explicamos mais sobre o nosso projeto:[https://youtu.be/ScEKXfWV2Bs](https://youtu.be/ScEKXfWV2Bs)
